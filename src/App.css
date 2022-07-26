@@ -1,0 +1,6 @@
+.navBarPrefix {
+  width: 60vw;
+  display: flex;
+  align-items: center !important;
+  margin-right: 3.5vw;
+}
